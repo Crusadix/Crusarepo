@@ -9,5 +9,8 @@
  * @author Hege
  */
 public class HelloGit {
-    
+    String name = "";
+    public HelloGit() {
+    this.name = "hege";
+}
 }
