@@ -12,5 +12,6 @@ public class HelloGit {
     String name = "";
     public HelloGit() {
     this.name = "hege";
+    System.out.println("HURDURRDERP");
 }
 }
